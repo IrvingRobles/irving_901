@@ -1,4 +1,4 @@
 archivo del local
 agregar linea local
-linea2
-linea3
+linea1
+linea6
