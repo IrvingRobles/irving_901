@@ -1,4 +1,4 @@
 archivo del local
 agregar linea local
-lina 2 local
-linea  remota 2
+linea2
+linea3
